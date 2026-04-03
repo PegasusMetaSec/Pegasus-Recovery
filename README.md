@@ -1,13 +1,16 @@
 <div align="center">
+
+![WhatsApp Image 2026-04-03 at 23 16 11](https://github.com/user-attachments/assets/2073b730-d029-487b-a430-eea1667bf898)
+
   
   <img src="https://img.shields.io/badge/Pegasus-Ready-blue?style=for-the-badge&logo=github" alt="Badge">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
   
-  <h1>🦄 Pegasus Recovery</h1>
+  <h1>Pegasus Recovery</h1>
   <p><em>Lightning-fast recovery tool with mythical reliability</em></p>
   
-  <img src="https://via.placeholder.com/800x200?text=Pegasus+Recovery+Banner" alt="Banner" width="80%">
-  
+  <img width="1913" height="987" alt="Screenshot 2026-04-03 231153" src="https://github.com/user-attachments/assets/7a64e1dd-b884-462e-b2ee-9219f107a8e3" />
+
 </div>
 
 ---
