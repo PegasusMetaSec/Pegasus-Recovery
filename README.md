@@ -2,7 +2,10 @@
 
 ![WhatsApp Image 2026-04-03 at 23 16 11](https://github.com/user-attachments/assets/2073b730-d029-487b-a430-eea1667bf898)
 
-  
+
+  <div align="center">
+<a href="https://trendshift.io/repositories/14638" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14638" alt="HKUDS%2FAI-Researcher | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+</div>
   <img src="https://img.shields.io/badge/Pegasus-Ready-blue?style=for-the-badge&logo=github" alt="Badge">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
   
