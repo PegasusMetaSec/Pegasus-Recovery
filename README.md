@@ -44,6 +44,21 @@
 - 2GB RAM minimum
 - Sistem operasi modern
 
+
+# 💰 Premium Access – Bayar dengan Bitcoin atau Saweria
+
+Halaman pembayaran sederhana untuk menerima donasi atau akses premium via **Bitcoin** dan **Saweria**.
+
+<p align="center">
+  <a href="https://saweria.co/pegasustrading" target="_blank">
+    <img src="https://img.shields.io/badge/Saweria-F2C94C?style=for-the-badge&logo=ko-fi&logoColor=black" alt="Bayar dengan Saweria" width="200">
+  </a>
+    
+  <a href="bc1prfu3p2pqqk79xp3xk5tau2kmhv4ddzkqc456nhpzjhmwyrf093jsyp2lrc">
+    <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bayar dengan Bitcoin" width="200">
+  </a>
+</p>
+
 ### Instalasi
 
 ```bash
